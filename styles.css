@@ -1,0 +1,893 @@
+.body{
+    background-color: rgb(19, 19, 19);
+}
+
+.start{
+    margin-top: 80px;
+}
+
+.title{
+    color: yellow;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    cursor: pointer;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.title-container{
+    display: block;
+    height: 60px;
+
+}
+.subtitle-container{
+    display: block;
+    margin-bottom: 30px;
+}
+.subtitle{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: yellow;
+    text-align: center;
+    font-size: 25px;
+}
+/*box-net1*/
+
+.box-net1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+/*box 1*/
+
+.box-1{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-1{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-1{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-1{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-1:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-1{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-1{
+    transition: all 0.5s;
+}
+.shop-button-1{
+    transition: all 0.5s;
+}
+.shop-text-1:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+    
+}
+.shop-button-1:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 2*/
+
+.box-2{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-2{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-2{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-2{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-2:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-2{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-2{
+    transition: all 0.5s;
+}
+.shop-button-2{
+    transition: all 0.5s;
+}
+.shop-text-2:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+    
+}
+.shop-button-2:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 3*/
+
+.box-3{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-3{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-3{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-3{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-3:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-3{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-3{
+    transition: all 0.5s;
+}
+.shop-button-3{
+    transition: all 0.5s;
+}
+.shop-text-3:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+    
+}
+.shop-button-3:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 4*/
+
+.box-4{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-4{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-4{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-4{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-4:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-4{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-4{
+    transition: all 0.5s;
+}
+.shop-button-4{
+    transition: all 0.5s;
+}
+.shop-text-4:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+}
+.shop-button-4:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 5*/
+
+.box-5{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-5{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-5{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-5{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-5:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-5{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-5{
+    transition: all 0.5s;
+}
+.shop-button-5{
+    transition: all 0.5s;
+}
+.shop-text-5:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+}
+.shop-button-5:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 6*/
+
+.box-6{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.box-6{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-6{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-6{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-6:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-6{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-6{
+    transition: all 0.5s;
+}
+.shop-button-6{
+    transition: all 0.5s;
+}
+.shop-text-6:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+}
+.shop-button-6:active{
+    background-color: rgb(214, 214, 0);
+}
+
+
+/*box-net2*/
+
+.box-net2{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+/*box 11*/
+
+.box-11{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-11{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-11{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-11{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-11:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-11{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-11{
+    transition: all 0.5s;
+}
+.shop-button-11{
+    transition: all 0.5s;
+}
+.shop-text-11:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+    
+}
+.shop-button-11:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 2*/
+
+.box-21{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-21{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-21{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-21{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-21:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-21{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-21{
+    transition: all 0.5s;
+}
+.shop-button-21{
+    transition: all 0.5s;
+}
+.shop-text-21:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+    
+}
+.shop-button-21:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 31*/
+
+.box-31{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-31{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-31{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-31{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-31:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-31{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-31{
+    transition: all 0.5s;
+}
+.shop-button-31{
+    transition: all 0.5s;
+}
+.shop-text-31:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+    
+}
+.shop-button-31:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 41*/
+
+.box-41{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-41{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-41{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-41{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-41:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-41{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-41{
+    transition: all 0.5s;
+}
+.shop-button-41{
+    transition: all 0.5s;
+}
+.shop-text-41:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+}
+.shop-button-41:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 51*/
+
+.box-51{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-51{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-51{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-51{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-51:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-51{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-51{
+    transition: all 0.5s;
+}
+.shop-button-51{
+    transition: all 0.5s;
+}
+.shop-text-51:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+}
+.shop-button-51:active{
+    background-color: rgb(214, 214, 0);
+}
+
+/*box 61*/
+
+.box-61{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.box-61{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    height: 250px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.image-61{
+    margin-bottom: 30px;
+    width: 160px;
+    height: 157px;
+}
+
+.shop-button-61{
+    width: 150px;
+    height: 51px;
+    display: inline-block;
+    padding: 5px;
+    border-top: 2px;
+    border-top-color: yellow;
+    border-top-style: solid;
+    text-align: center;
+
+
+    
+}
+.shop-button-61:hover{
+    cursor: pointer;
+    
+    background-color: yellow;
+
+    
+    
+}
+
+.shop-text-61{
+    display: inline-block;
+    width: 100%;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.shop-text-61{
+    transition: all 0.5s;
+}
+.shop-button-61{
+    transition: all 0.5s;
+}
+.shop-text-61:hover{
+    color: rgb(19, 19, 19);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.205);
+}
+.shop-button-61:active{
+    background-color: rgb(214, 214, 0);
+}
